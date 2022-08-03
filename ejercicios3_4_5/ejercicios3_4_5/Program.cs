@@ -1,5 +1,5 @@
 ﻿//Ejercicio 3
-/*
+
 Console.WriteLine("Escribe tu nombre");
 String nombre = Console.ReadLine();
 Console.WriteLine("Escribe tu apellido");
@@ -35,7 +35,7 @@ int num = 20;
 Console.WriteLine(num >= 18);
 
 char a = 'a';
-*/
+
 int b = 10;
 int c = 5;
 
