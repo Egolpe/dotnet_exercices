@@ -1,0 +1,15 @@
+/Users/enriquegolpeares/dotnet_projects/ejercicios7_8_9/ejercicios7_8_9/bin/Debug/net6.0/ejercicios7_8_9
+/Users/enriquegolpeares/dotnet_projects/ejercicios7_8_9/ejercicios7_8_9/bin/Debug/net6.0/ejercicios7_8_9.deps.json
+/Users/enriquegolpeares/dotnet_projects/ejercicios7_8_9/ejercicios7_8_9/bin/Debug/net6.0/ejercicios7_8_9.runtimeconfig.json
+/Users/enriquegolpeares/dotnet_projects/ejercicios7_8_9/ejercicios7_8_9/bin/Debug/net6.0/ejercicios7_8_9.dll
+/Users/enriquegolpeares/dotnet_projects/ejercicios7_8_9/ejercicios7_8_9/bin/Debug/net6.0/ejercicios7_8_9.pdb
+/Users/enriquegolpeares/dotnet_projects/ejercicios7_8_9/ejercicios7_8_9/obj/Debug/net6.0/ejercicios7_8_9.csproj.AssemblyReference.cache
+/Users/enriquegolpeares/dotnet_projects/ejercicios7_8_9/ejercicios7_8_9/obj/Debug/net6.0/ejercicios7_8_9.GeneratedMSBuildEditorConfig.editorconfig
+/Users/enriquegolpeares/dotnet_projects/ejercicios7_8_9/ejercicios7_8_9/obj/Debug/net6.0/ejercicios7_8_9.AssemblyInfoInputs.cache
+/Users/enriquegolpeares/dotnet_projects/ejercicios7_8_9/ejercicios7_8_9/obj/Debug/net6.0/ejercicios7_8_9.AssemblyInfo.cs
+/Users/enriquegolpeares/dotnet_projects/ejercicios7_8_9/ejercicios7_8_9/obj/Debug/net6.0/ejercicios7_8_9.csproj.CoreCompileInputs.cache
+/Users/enriquegolpeares/dotnet_projects/ejercicios7_8_9/ejercicios7_8_9/obj/Debug/net6.0/ejercicios7_8_9.dll
+/Users/enriquegolpeares/dotnet_projects/ejercicios7_8_9/ejercicios7_8_9/obj/Debug/net6.0/refint/ejercicios7_8_9.dll
+/Users/enriquegolpeares/dotnet_projects/ejercicios7_8_9/ejercicios7_8_9/obj/Debug/net6.0/ejercicios7_8_9.pdb
+/Users/enriquegolpeares/dotnet_projects/ejercicios7_8_9/ejercicios7_8_9/obj/Debug/net6.0/ejercicios7_8_9.genruntimeconfig.cache
+/Users/enriquegolpeares/dotnet_projects/ejercicios7_8_9/ejercicios7_8_9/obj/Debug/net6.0/ref/ejercicios7_8_9.dll
