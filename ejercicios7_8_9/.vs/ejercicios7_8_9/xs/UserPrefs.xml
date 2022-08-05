@@ -1,4 +1,26 @@
-﻿<Properties StartupConfiguration="{C2E9BA39-04BE-41F6-B45C-8F2379E3B3AA}|Default">
-  <MonoDevelop.Ide.ItemProperties.ejercicios7__8__9 FirstBuild="True" />
+﻿<Properties StartupConfiguration="{C2E9BA39-04BE-41F6-B45C-8F2379E3B3AA}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MonoDevelop.Ide.ItemProperties.ejercicios7__8__9 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ejercicios7_8_9/Program.cs">
+    <Files>
+      <File FileName="ejercicios7_8_9/Program.cs" Line="59" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ejercicios7_8_9" expanded="True">
+            <Node name="ejercicios7_8_9" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MultiItemStartupConfigurations />
 </Properties>

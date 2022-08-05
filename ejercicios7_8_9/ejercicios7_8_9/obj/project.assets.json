@@ -1,11 +1,36 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "Microsoft.VisualStudio.IntelliCode.Internal.InlineSuggestions/2.2.2096-g730c8ef2fe": {
+        "type": "package",
+        "build": {
+          "build/Microsoft.VisualStudio.IntelliCode.Internal.InlineSuggestions.targets": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Microsoft.VisualStudio.IntelliCode.Internal.InlineSuggestions/2.2.2096-g730c8ef2fe": {
+      "sha512": "gEpdT2ZEhW7L9tsqZfYW7f9bX4Ll5N8H1du74P6Ql1EtxHgvwec0Wbwo9YkB2pvmr1biOmHN1IgTNzCceuLEuw==",
+      "type": "package",
+      "path": "microsoft.visualstudio.intellicode.internal.inlinesuggestions/2.2.2096-g730c8ef2fe",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "build/Microsoft.VisualStudio.IntelliCode.Internal.InlineSuggestions.targets",
+        "content/Microsoft.VisualStudio.Internal.InlineSuggestions.vsix",
+        "lib/net472/Microsoft.VisualStudio.Internal.InlineSuggestions.dll",
+        "microsoft.visualstudio.intellicode.internal.inlinesuggestions.2.2.2096-g730c8ef2fe.nupkg.sha512",
+        "microsoft.visualstudio.intellicode.internal.inlinesuggestions.nuspec"
+      ]
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "Microsoft.VisualStudio.IntelliCode.Internal.InlineSuggestions >= 2.2.2096-g730c8ef2fe"
+    ]
   },
   "packageFolders": {
     "/Users/enriquegolpeares/.nuget/packages/": {}
@@ -43,6 +68,12 @@
     "frameworks": {
       "net6.0": {
         "targetAlias": "net6.0",
+        "dependencies": {
+          "Microsoft.VisualStudio.IntelliCode.Internal.InlineSuggestions": {
+            "target": "Package",
+            "version": "[2.2.2096-g730c8ef2fe, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",

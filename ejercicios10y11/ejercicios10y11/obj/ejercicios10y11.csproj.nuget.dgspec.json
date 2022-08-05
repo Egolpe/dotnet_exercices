@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/enriquegolpeares/dotnet_projects/ejercicios7_8_9/ejercicios7_8_9/ejercicios7_8_9.csproj": {}
+    "/Users/enriquegolpeares/dotnet_projects/ejercicios10y11/ejercicios10y11/ejercicios10y11.csproj": {}
   },
   "projects": {
-    "/Users/enriquegolpeares/dotnet_projects/ejercicios7_8_9/ejercicios7_8_9/ejercicios7_8_9.csproj": {
+    "/Users/enriquegolpeares/dotnet_projects/ejercicios10y11/ejercicios10y11/ejercicios10y11.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/enriquegolpeares/dotnet_projects/ejercicios7_8_9/ejercicios7_8_9/ejercicios7_8_9.csproj",
-        "projectName": "ejercicios7_8_9",
-        "projectPath": "/Users/enriquegolpeares/dotnet_projects/ejercicios7_8_9/ejercicios7_8_9/ejercicios7_8_9.csproj",
+        "projectUniqueName": "/Users/enriquegolpeares/dotnet_projects/ejercicios10y11/ejercicios10y11/ejercicios10y11.csproj",
+        "projectName": "ejercicios10y11",
+        "projectPath": "/Users/enriquegolpeares/dotnet_projects/ejercicios10y11/ejercicios10y11/ejercicios10y11.csproj",
         "packagesPath": "/Users/enriquegolpeares/.nuget/packages/",
-        "outputPath": "/Users/enriquegolpeares/dotnet_projects/ejercicios7_8_9/ejercicios7_8_9/obj/",
+        "outputPath": "/Users/enriquegolpeares/dotnet_projects/ejercicios10y11/ejercicios10y11/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/enriquegolpeares/.nuget/NuGet/NuGet.Config"
@@ -37,12 +37,6 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "dependencies": {
-            "Microsoft.VisualStudio.IntelliCode.Internal.InlineSuggestions": {
-              "target": "Package",
-              "version": "[2.2.2096-g730c8ef2fe, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",

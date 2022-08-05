@@ -7,4 +7,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Microsoft.VisualStudio.IntelliCode.Internal.InlineSuggestions" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.IntelliCode.Internal.InlineSuggestions" Version="2.2.2096-g730c8ef2fe" />
+  </ItemGroup>
 </Project>

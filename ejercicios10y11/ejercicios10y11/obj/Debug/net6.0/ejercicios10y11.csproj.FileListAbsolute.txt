@@ -1,0 +1,15 @@
+/Users/enriquegolpeares/dotnet_projects/ejercicios10y11/ejercicios10y11/bin/Debug/net6.0/ejercicios10y11
+/Users/enriquegolpeares/dotnet_projects/ejercicios10y11/ejercicios10y11/bin/Debug/net6.0/ejercicios10y11.deps.json
+/Users/enriquegolpeares/dotnet_projects/ejercicios10y11/ejercicios10y11/bin/Debug/net6.0/ejercicios10y11.runtimeconfig.json
+/Users/enriquegolpeares/dotnet_projects/ejercicios10y11/ejercicios10y11/bin/Debug/net6.0/ejercicios10y11.dll
+/Users/enriquegolpeares/dotnet_projects/ejercicios10y11/ejercicios10y11/bin/Debug/net6.0/ejercicios10y11.pdb
+/Users/enriquegolpeares/dotnet_projects/ejercicios10y11/ejercicios10y11/obj/Debug/net6.0/ejercicios10y11.csproj.AssemblyReference.cache
+/Users/enriquegolpeares/dotnet_projects/ejercicios10y11/ejercicios10y11/obj/Debug/net6.0/ejercicios10y11.GeneratedMSBuildEditorConfig.editorconfig
+/Users/enriquegolpeares/dotnet_projects/ejercicios10y11/ejercicios10y11/obj/Debug/net6.0/ejercicios10y11.AssemblyInfoInputs.cache
+/Users/enriquegolpeares/dotnet_projects/ejercicios10y11/ejercicios10y11/obj/Debug/net6.0/ejercicios10y11.AssemblyInfo.cs
+/Users/enriquegolpeares/dotnet_projects/ejercicios10y11/ejercicios10y11/obj/Debug/net6.0/ejercicios10y11.csproj.CoreCompileInputs.cache
+/Users/enriquegolpeares/dotnet_projects/ejercicios10y11/ejercicios10y11/obj/Debug/net6.0/ejercicios10y11.dll
+/Users/enriquegolpeares/dotnet_projects/ejercicios10y11/ejercicios10y11/obj/Debug/net6.0/refint/ejercicios10y11.dll
+/Users/enriquegolpeares/dotnet_projects/ejercicios10y11/ejercicios10y11/obj/Debug/net6.0/ejercicios10y11.pdb
+/Users/enriquegolpeares/dotnet_projects/ejercicios10y11/ejercicios10y11/obj/Debug/net6.0/ejercicios10y11.genruntimeconfig.cache
+/Users/enriquegolpeares/dotnet_projects/ejercicios10y11/ejercicios10y11/obj/Debug/net6.0/ref/ejercicios10y11.dll

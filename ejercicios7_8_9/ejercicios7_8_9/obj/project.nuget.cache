@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "HzlnqXW7OU/SdvfgnTmr+46TP3nq/MiDRT/fNiRl7RauJXfB78ycNBe6AbjB5MWbvGq3Uz935LJMgctbeFVs9w==",
+  "dgSpecHash": "K1EtRI/a23kbfjuzLtpgmBOebbahkjK17wBvX97GMrx6cKi7eHPodMeJoTvwng9nfBzYMvZp0N3F0frbXjkwCQ==",
   "success": true,
   "projectFilePath": "/Users/enriquegolpeares/dotnet_projects/ejercicios7_8_9/ejercicios7_8_9/ejercicios7_8_9.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/enriquegolpeares/.nuget/packages/microsoft.visualstudio.intellicode.internal.inlinesuggestions/2.2.2096-g730c8ef2fe/microsoft.visualstudio.intellicode.internal.inlinesuggestions.2.2.2096-g730c8ef2fe.nupkg.sha512"
+  ],
   "logs": []
 }
